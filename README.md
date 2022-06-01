@@ -30,6 +30,7 @@
 - ⚡️ Gatsby 4
 - ⚛️ React 18
 - ⛑ TypeScript
+- 📖 Storybook 6.x for React
 - 🐐 Tests — Jest and Testing Library out of the box
 - 📏 ESLint — To find and fix problems in your code
 - 💖 Prettier — Code Formatter for consistent style
